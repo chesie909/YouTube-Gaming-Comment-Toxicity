@@ -1,5 +1,7 @@
 # YouTube Gaming Comment Toxicity: A Comparative Analysis of Action and Non-Action Games Video Comments
 
+_Chesie Yu, Hongfan Lu, Bella Wei_  
+
 This project explores the prevalence of toxicity in YouTube gaming comment sections, focusing on the differences between action and non-action game videos. Utilizing Google Perspective API and NLP sentiment analysis, we analyze over 130,000 comments to identify patterns and correlations between video content and comment toxicity. Our findings highlight that action game videos tend to elicit more toxic comments, and that toxic video transcripts are more likely to generate toxic responses.  This research aims to guide video creators and the platform in fostering a more positive online gaming environment.  
 
 
